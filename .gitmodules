@@ -1,0 +1,12 @@
+[submodule "dependencies/cpp-httplib"]
+	path = dependencies/cpp-httplib
+	url = https://github.com/yhirose/cpp-httplib
+[submodule "dependencies/websocketpp"]
+	path = dependencies/websocketpp
+	url = https://github.com/zaphoyd/websocketpp
+[submodule "dependencies/json"]
+	path = dependencies/json
+	url = https://github.com/nlohmann/json
+[submodule "dependencies/ada"]
+	path = dependencies/ada
+	url = https://github.com/ada-url/ada
